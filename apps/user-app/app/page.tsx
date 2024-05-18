@@ -82,6 +82,8 @@ export default function Page(): JSX.Element {
         Click me!
       </Button>
 
+      <p className="bg-blue-500 text-3xl ">papi says hi</p>
+
       <div className={styles.hero}>
         <div className={styles.heroContent}>
           <div className={styles.logos}>
